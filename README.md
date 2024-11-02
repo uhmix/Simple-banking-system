@@ -1,4 +1,4 @@
-Chatgpt'd one part and one part only and that is 
+Used chatgpt on one part and one part only and that is: 
 	if (balance <= 0) {
 		std::cout << "Cannot withdraw. Your balance is zero or negative.\n";
 	}
