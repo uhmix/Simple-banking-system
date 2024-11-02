@@ -9,7 +9,7 @@ bool menu = true;
 int main() {
 	while (choice != 4) {
 		std::cout << "Welcome to G bank " << '\n' << '\n';
-		std::cout << "=====Menu=====" << '\n';
+		std::cout << "⭐𝕄𝕖𝕟𝕦⭐" << '\n';
 		std::cout << "1. Check balance " << '\n';
 		std::cout << "2. Deposit money " << '\n';
 		std::cout << "3. Withdraw money " << '\n';
